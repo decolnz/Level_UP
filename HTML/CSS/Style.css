@@ -1,0 +1,11 @@
+body
+{
+    background-image: url('../Images/Background.jpg');
+    background-repeat: no-repeat;
+    width: 100%
+}
+
+a
+{
+    margin-left: 50px
+}
